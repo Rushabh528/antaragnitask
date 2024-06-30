@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604557329295",
+    "project_id": "antaragniapp",
+    "storage_bucket": "antaragniapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604557329295:android:780a886c28357b531241fa",
+        "android_client_info": {
+          "package_name": "com.example.antaragnitask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcDJ9LP8X6ND7gfvLw1Ye8OyN22L-zJQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
